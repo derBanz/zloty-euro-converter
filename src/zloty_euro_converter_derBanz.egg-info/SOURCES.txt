@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/zl_converter/__init__.py
+src/zl_converter/converter.py
+src/zloty_euro_converter_derBanz.egg-info/PKG-INFO
+src/zloty_euro_converter_derBanz.egg-info/SOURCES.txt
+src/zloty_euro_converter_derBanz.egg-info/dependency_links.txt
+src/zloty_euro_converter_derBanz.egg-info/top_level.txt

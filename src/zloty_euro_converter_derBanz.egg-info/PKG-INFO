@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: zloty-euro-converter-derBanz
+Version: 0.0.1
+Summary: Converter package PLN <-> Euro
+Home-page: https://github.com/derBanz/zloty-euro-converter
+Author: derBanz
+Author-email: sebastian.banz@yahoo.de
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/derBanz/zloty-euro-converter/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Zloty Euro Converter
+
+This package was created to test the pypi packaging system. It provides access to the 'converte' method, that takes a numeric input and treats it as both a zloty and a Euro value, prodiving the converted values for both.
+
+The current conversion rate is taken from https://github.com/fawazahmed0/currency-api.
+
